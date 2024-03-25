@@ -16,11 +16,11 @@ body{
     color: white;
 }
 
-/*box-grid*/
+/*container*/
 .container{
     width: 100%;
     max-width: 1440px;
-   margin: 150px 155px;    
+   margin: 164px 165px;    
 }
  /*box-grid*/
 .box-grid{
